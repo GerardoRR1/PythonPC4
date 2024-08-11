@@ -1,0 +1,4 @@
+Producto	Total Dólares	Total Soles
+producto2	75.00	279.00
+producto1	52.50	195.30
+producto3	145.00	539.40
